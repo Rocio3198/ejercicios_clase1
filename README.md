@@ -1,1 +1,1 @@
-# ejercicios_primera-clase
+# ejercicios_clase1
